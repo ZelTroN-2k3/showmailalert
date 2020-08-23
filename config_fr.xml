@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>showmailalert</name>
+    <displayName><![CDATA[Voir les demandes de notification par mail des clients]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[Voir les demandes de notification par mail des clients permet de conna&icirc;tre les articles souhait&eacute;s par les clients]]></description>
+    <author><![CDATA[M.B]]></author>
+    <tab><![CDATA[administration]]></tab>
+	<confirmUninstall><![CDATA[Are you sure you want to uninstall?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>
