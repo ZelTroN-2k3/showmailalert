@@ -2,9 +2,9 @@
 <module>
     <name>showmailalert</name>
     <displayName><![CDATA[Voir les demandes de notification par mail des clients]]></displayName>
-    <version><![CDATA[1.0.0]]></version>
+    <version><![CDATA[1.0.1]]></version>
     <description><![CDATA[Voir les demandes de notification par mail des clients permet de conna&icirc;tre les articles souhait&eacute;s par les clients]]></description>
-    <author><![CDATA[M.B]]></author>
+    <author><![CDATA[M.B / ZelTroN2k3]]></author>
     <tab><![CDATA[administration]]></tab>
 	<confirmUninstall><![CDATA[Are you sure you want to uninstall?]]></confirmUninstall>
     <is_configurable>1</is_configurable>
