@@ -18,7 +18,7 @@ Tested on
 * You can configure the title of the front page
 
 ### TODO
-- Make it compatible with PrestaShop 1.5
+- Make it compatible with PrestaShop 1.6.x.x
 - Add active on current letter
 
 ## License
