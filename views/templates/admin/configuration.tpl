@@ -18,14 +18,14 @@
 		<br>
 
 		<p>
-			&raquo; {l s='Bug report on GitHub only' mod='showmailalert'} : <a href="https://github.com/ZelTroN-2k3/Showmailalerts" target="_blank">https://github.com/ZelTroN-2k3/Showmailalerts</a><br>
-			&nbsp;&nbsp;&nbsp;{l s='For any bug report, please follow the following process' mod='showmailalert'} : <a href="https://github.com/ZelTroN-2k3/Showmailalerts/graphs/contributors" target="_blank">https://github.com/ZelTroN-2k3/Showmailalerts/graphs/contributors</a>
+			&raquo; {l s='Bug report on GitHub only' mod='showmailalert'} : <a href="https://github.com/ZelTroN-2k3/showmailalert" target="_blank">https://github.com/ZelTroN-2k3/showmailalert</a><br>
+			&nbsp;&nbsp;&nbsp;{l s='For any bug report, please follow the following process' mod='showmailalert'} : <a href="https://github.com/ZelTroN-2k3/showmailalert/graphs/contributors" target="_blank">https://github.com/ZelTroN-2k3/showmailalert/graphs/contributors</a>
 		</p>
 		<br>
 
 		<p>
 			&raquo; {l s='This is a free module powered by' mod='showmailalert'} <a href="https://www.prestashop.com/forums/topic/1010761-module-gratuit-showmailalerts-liste-des-demandes-dalerte-mail/" target="_blank">forums Prestashop</a>
-			{l s='under the licence' mod='showmailalert'} <a href="https://github.com/ZelTroN-2k3/Showmailalerts/blob/master/documentation/LICENSE.txt" target="_blank">licence</a>.<br>
+			{l s='under the licence' mod='showmailalert'} <a href="https://github.com/ZelTroN-2k3/showmailalert/blob/master/documentation/LICENSE.txt" target="_blank">licence</a>.<br>
 			&nbsp;&nbsp;&nbsp;{l s='You will appreciate our other modules Coming soon' mod='showmailalert'} : <a href="#" target="_blank">Coming soon</a>
 		</p>
 	</div>
